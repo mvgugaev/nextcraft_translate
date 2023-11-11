@@ -1,0 +1,23 @@
+{
+
+	"item.bygonenether.netherite_bell": "Незеритовый колокол",
+	"item.bygonenether.gilded_netherite_shield": "Позолоченный незеритовый щит",
+	"item.bygonenether.crushed_withered_debris": "Crushed Withered Debris",
+	"item.bygonenether.netherite_scrap_nugget": "Самородок незеритового шлака",
+	"item.bygonenether.netherite_scrap_ingot": "Слиток незеритового шлака",
+
+	"item.bygonenether.withered_blackstone_vertical_slab": "Withered Blackstone Vertical Slab",
+	"item.bygonenether.cracked_withered_blackstone_vertical_slab": "Cracked Withered Blackstone Vertical Slab",
+	"item.bygonenether.warped_nether_brick_vertical_slab": "Warped Nether Brick Vertical Slab",
+
+	"block.bygonenether.netherite_bell": "Незеритовый колокол",
+
+	"block.bygonenether.withered_blackstone_vertical_slab": "Withered Blackstone Vertical Slab",
+	"block.bygonenether.cracked_withered_blackstone_vertical_slab": "Cracked Withered Blackstone Vertical Slab",
+	"block.bygonenether.warped_nether_brick_vertical_slab": "Warped Nether Brick Vertical Slab",
+
+	"advancements.bygonenether.rescue_piglin_prisoner.title": "Спасите Private Swine",
+	"advancements.bygonenether.rescue_piglin_prisoner.description": "Спасен заключенного пиглинов",
+
+	"itemGroup.bygonenethertab": "Bygone Nether"
+}

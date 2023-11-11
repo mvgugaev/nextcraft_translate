@@ -1,0 +1,7 @@
+{
+  "options.iris.colorSpace": "Цветовой пространство",
+  "options.iris.colorSpace.sodium_tooltip": "Цветовое пространство, в которое преобразуется экран. Работает поверх шейдерных пакетов. Используйте SRGB, если не уверены.",
+  "options.iris.graphics.fast": "Быстро",
+  "options.iris.graphics.fancy": "Детально",
+  "options.iris.graphics.fabulous": "Потрясающе"
+}

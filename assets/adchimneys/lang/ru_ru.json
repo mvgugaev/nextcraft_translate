@@ -1,0 +1,12 @@
+{
+  "block.adchimneys.glass_chimney": "Стеклянный Дымоход",
+  "block.adchimneys.metal_chimney": "Металлический Дымоход",
+  "block.adchimneys.metal_pump": "Металлический Насос",
+  "block.adchimneys.metal_vent": "Металлический Вентиляция",
+  "block.adchimneys.pipe": "Труба Насоса",
+  "block.adchimneys.stone_chimney": "Каменный Дымоход",
+  "block.adchimneys.stone_pump": "Каменная Помпа",
+  "block.adchimneys.stone_vent": "Каменная Вентиляция",
+  "item.adchimneys.wooden_paintbrush": "Деревянная Кисть",
+  "itemGroup.advanced_chimneys": "Дымоходы"
+}

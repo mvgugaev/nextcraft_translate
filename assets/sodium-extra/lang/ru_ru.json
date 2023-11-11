@@ -1,0 +1,7 @@
+{
+    "sodium-extra.option.cloud_distance": "Дистанция облаков",
+    "sodium-extra.option.cloud_distance.tooltip": "Управляет расстоянием от игрока, на котором отображаются облака.",
+    "sodium-extra.options.graphics.fast": "Быстро",
+    "sodium-extra.options.graphics.fancy": "Детально",
+    "sodium-extra.options.graphics.fabulous": "Потрясающе"
+}

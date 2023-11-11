@@ -1,0 +1,16 @@
+{
+  "fml.menu.mods.filter_updates": "Показывать только требующие обновления моды",
+  "catalogue.gui.internal_libraries": "Показать встроенные библиотеки",
+  "catalogue.gui.no_selection": "Не выбран мод...",
+  "catalogue.gui.mod_list": "Моды",
+  "catalogue.gui.search": "Поиск",
+  "catalogue.gui.config": "Настройки",
+  "catalogue.gui.open_mods_folder": "Открыть папку с модыми",
+  "catalogue.gui.licenses": "Лицензия: %s",
+  "catalogue.gui.authors": "Автор(ы): %s",
+  "catalogue.gui.contributors": "Помошник(и): %s",
+  "catalogue.gui.credits": "Credits: %s",
+  "catalogue.gui.version": "Версия: %s",
+  "catalogue.gui.update_available": "Обнвления: %s",
+  "catalogue.gui.info": "Список модов"
+}
